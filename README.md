@@ -1,4 +1,4 @@
-# MLDL
+# ML/DL
 
 ## Descripción del Proyecto
 Este proyecto se centra en el uso de la red neuronal de Detectron2 para entrenar un modelo de reconocimiento de imágenes utilizando un dataset del videojuego Counter Strike: Global Offensive. El objetivo principal es que la red sea capaz de identificar a los personajes del juego y clasificarlos según pertenezcan al bando terrorista o contraterrorista.
